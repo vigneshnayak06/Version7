@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home.png",
+        "source": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\home.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\home.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\home.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loc.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\loc.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo_f.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\src\\main\\res\\drawable-xxhdpi\\logo_f.png"
+    },
+    {
+        "merged": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loc.png",
+        "source": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\loc.png"
+    },
+    {
+        "merged": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo_f.png",
+        "source": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\drawable-xxhdpi\\logo_f.png"
+    }
+]

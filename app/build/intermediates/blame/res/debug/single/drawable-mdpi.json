@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\home.png",
+        "source": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo_f.png",
+        "source": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\drawable-mdpi\\logo_f.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo_join.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\src\\main\\res\\drawable-mdpi\\logo_join.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo_f.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\src\\main\\res\\drawable-mdpi\\logo_f.png"
+    },
+    {
+        "merged": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo_join.png",
+        "source": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\drawable-mdpi\\logo_join.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loc.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\loc.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\home.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loc.png",
+        "source": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\loc.png"
+    }
+]

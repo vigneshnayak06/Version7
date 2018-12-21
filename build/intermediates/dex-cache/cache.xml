@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\b137364cda560d3aa3d2b8a4bc8d69fd9fe0fd14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_d0b797da92cc549b314a01280c0f0b5edc39411a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\common-1.0.0_964ce923fefd938a8d43bf81eef432c6acf78268.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\87d6585c024465d02ad59e2552010e8ad9f39d39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_def74dc6cf476e00f2e005fbf1838bed7cd6a103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\common-1.0.0_d1776cbc68463a10c50bfa1ba093815aaed360e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\27bebd37121f58801d63929bfbcf8f247e26916b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_e64bb3ea5e28c797dbd9f1a038c547f1a0606284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\34b66a3b2e0b80837f0f48461bf4d006bc856316\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_e653e1f5593454a2315d6714e12b97e900bd43e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\283a3b72c0f69c1332392c50fa8a4a80fb6842ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_ecc22c77cd5757bc450b10e9e4d327273080b353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\9c5e00b38647e03d91c346fb117a83038439584a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_151c1643ac3ecda2bb7ea3c701c76e518fd5e887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\65f30fa5abf91c813390aeca08cad035333c37f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="328361bc6f9da1661a1c5911df1be0c866166848">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_5f5bc678cc7254ff655da6b870ce1d7ae07ba229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\ff1f54da1e9766566e155e261b97066254c225ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98503de3f5cb6c5fa391a649ceeb2643728c5d5a">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_499a0403aecb044700d72be9bade421735429f9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\f8761707260cca667910875e351a9f60c1df157a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_f375b71e7ebdc9b5b9430c6e852f4c46af31b743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\1b74ecaa90aedb2dfa55b637dfe85dc7577a2935\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_16aef3fd32f52e01ba3a59d0b6bcb39a9641ffba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\4af82395734000a7195f010669b205ea04ed4253\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_0b6302019da99e8fc296ac2fad1acfd42ceee0d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\042dfe8cd5001c769118b59a7743e0fe1ec53ce1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_ce8c11046b70271c762493f3391912c7e67aefac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\1fa2d84391db7a570a47dcde06de301901fbd983\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_8f2330f89a8acae4ae7334f5c317a1edc83b66d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\7bb59816340fac525e0ee89f6fce02d2826d86c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_658464a922c4bb3bb427d3877cab151d73945505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\ac133474998de9211fa3468d07db0dbe579d3ab4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_8f2b984f03f1f671e6b9d8b7116647c5bff0cd0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_928e182a059b31399eb318e3f3cf1e46aac635ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\d8be6d10bc78aa514ea5b0d2fb395b6bb6f261a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_2323684bb75f0393792e4c551b8ea00f53f6b5bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\4b7d443f3822a0751a2fc2a2bb62f88f5d5493e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_f186e4994f681a78e9f019f208d8ad456df9ffc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\affba0403acb600e086df51fa268940608bd6481\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_5387fa22c06e5731fb19091cf7e3822343505d5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\b1908587e8b2c0b70475cc1378faa95092c7e671\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_4ffb8141003a87588e3df3242ac10ca9438c5385.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\736a583edff93851231faa3c25406084890b5d75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_04e9ea1e1c5c701b92b617c7e106a1ef81f532db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\56d08db83b4dfea0b9e2329aa0ca2f6e2555a58e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_f04df3e7cd4a11784c889a746a56fa16b4c55776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\b08e2e2bae9bb88c3cac8fa0b7a1963d9efba787\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_b63a9e4d9c8e6e5440be7653b5f3e25662074716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\af578fb6f0895e34ad43db378fa02945f7b0b067\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_aab25807bd33c03fa79099df07ee094acda2732a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_1f1259e9c7373566f305a3e22c698c9584e96332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\76e5e3c14af459fc92df729ae0809ceb1ab09c2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_a1ca9187c2f8b91d5aaa5090e4e0656773846241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vinee\.android\build-cache\a4df260673c95447ec97aee5c94384bc40cc7323\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\vinee\AndroidStudioProjects\Version-6-master\Navigationdraw\app\build\intermediates\pre-dexed\debug\classes_2b0bee1276a6177f017937ca659657acda3b6ce9.jar" />
+    </item>
+
+</items>

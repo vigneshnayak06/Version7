@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\image1.png",
+        "source": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\mipmap-hdpi\\image1.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\launch.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\src\\main\\res\\mipmap-hdpi\\launch.png"
+    },
+    {
+        "merged": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\launch.png",
+        "source": "C:\\Users\\vinee\\AndroidStudioProjects\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\mipmap-hdpi\\launch.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android_projects\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\image1.png",
+        "source": "E:\\android_projects\\Navigationdraw\\app\\src\\main\\res\\mipmap-hdpi\\image1.png"
+    }
+]
